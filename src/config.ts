@@ -11,14 +11,14 @@ export const siteConfig = {
   },
   aboutMe:
     "Final-year Computer Science student (Università Degli Studi di Firenze) with Erasmus+ exchange experience at Universidad Carlos III de Madrid, specialized in software development and applied AI. Hands-on experience architecting and deploying backend systems and web apps.",
-  skills: ["Javascript", "React", "Node.js", "Python", "Java", "MySQL", "Git", "HTML", "CSS"],
+  skills: ["Javascript", "React", "Python", "Java", "MySQL", "Git", "HTML", "CSS"],
   projects: [
     {
       name: "Real-Time Kinematic Analysis via Computer Vision",
       description:
         "Client-side web app using MediaPipe Pose to track body landmarks in real time during weightlifting exercises, providing instant feedback on form and technique.",
       link: "https://github.com/Persheshow/appMediaPipe",
-      skills: ["React", "Vite", "MediaPipe", "JavaScript", "Tailwind CSS"],
+      skills: ["React", "MediaPipe", "JavaScript", "Tailwind CSS"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",

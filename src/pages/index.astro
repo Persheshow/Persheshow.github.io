@@ -6,6 +6,7 @@ import Projects from "../components/Projects.astro";
 import Experience from "../components/Experience.astro";
 import Education from "../components/Education.astro";
 import Footer from "../components/Footer.astro";
+import DownloadCV from '../components/DownloadCV.astro';
 import { siteConfig } from "../config";
 import "../styles/global.css";
 ---
@@ -30,9 +31,10 @@ import "../styles/global.css";
     <section>
       <Hero />
       <About />
+      <Education />
       <Projects />
       <Experience />
-      <Education />
+      <DownloadCV />
     </section>
     <Footer />
   </body>
