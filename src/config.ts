@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Lorenzo Napolitano",
   title: "Junior Software Engineer",
   description: "Portfolio website of Lorenzo Napolitano",
-  accentColor: "#1d4ed8",
+  accentColor: "#a81111",
   social: {
     email: "napolitanolorenzo39@gmail.com",
     linkedin: "https://www.linkedin.com/in/lorenzo-napolitano-439271275/",
@@ -10,15 +10,15 @@ export const siteConfig = {
     github: "https://github.com/Persheshow",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Final-year Computer Science student (Università Degli Studi di Firenze) with Erasmus+ exchange experience at Universidad Carlos III de Madrid, specialized in software development and applied AI. Hands-on experience architecting and deploying backend systems and web apps.",
+  skills: ["Javascript", "React", "Node.js", "Python", "Java", "MySQL", "Git", "HTML", "CSS"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Real-Time Kinematic Analysis via Computer Vision",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Client-side web app using MediaPipe Pose to track body landmarks in real time during weightlifting exercises, providing instant feedback on form and technique.",
+      link: "https://github.com/Persheshow/appMediaPipe",
+      skills: ["React", "Vite", "MediaPipe", "JavaScript", "Tailwind CSS"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
