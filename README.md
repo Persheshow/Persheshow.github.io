@@ -50,10 +50,6 @@ npm run dev
 
 Inside the project, you will find the following structure for the Astro files:
 
-* `src/pages/`: Contains the individual pages of the site (e.g., `index.astro`). Routing is file-based.
+* `src/pages/`: Contains the individual page of the site (e.g., `index.astro`).
 * `src/components/`: Contains reusable UI components (e.g., `Footer.astro`, `Header.astro`).
 * `public/`: Static assets like images or fonts that do not need to be processed by Astro.
-
-```
-
-```
