@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Portfolio website of Lorenzo Napolitano",
   accentColor: "#a81111",
   social: {
-    email: "napolitanolorenzo39@gmail.com",
+    //email: "napolitanolorenz93@gmail.com",
     linkedin: "https://www.linkedin.com/in/lorenzo-napolitano-439271275/",
     //twitter: "https://x.com/rfitzio",
     github: "https://github.com/Persheshow",
