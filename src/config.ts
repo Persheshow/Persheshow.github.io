@@ -18,21 +18,21 @@ export const siteConfig = {
       description:
         "Engineered a client-side web app using MediaPipe Pose to track body landmarks in real time during weightlifting exercises, providing instant feedback on form and technique.",
       link: "https://github.com/Persheshow/appMediaPipe",
-      skills: ["React", "MediaPipe", "JavaScript", "Tailwind CSS"],
+      skills: ["React", "MediaPipe", "JavaScript", "Tailwind CSS", "Vite"],
     },
     {
       name: "Readar – Backend Architecture",
       description:
         "Architected and built the Python (FastAPI) backend for an Android reading-tracker app, deploying to Google Firebase.",
       link: "https://github.com/PietroPalandrani/Readar_BackEnd",
-      skills: ["Python", "FastAPI", "Google Firebase",],
+      skills: ["Python", "FastAPI", "Google Firebase", "Kotlin"],
     },
     {
       name: "Reactor Power Control via MDP",
       description:
         "Built a Python reactor power control simulation using pymdptoolbox, modeling states/actions/transition probabilities with custom control modules and demand generators.",
       link: "https://github.com/PietroPalandrani/Nuclear_Reactor_MDP",
-      skills: ["Python", "pymdptoolbox", "NumPy"],
+      skills: ["Python", "pymdptoolbox", "NumPy", "Matplotlib"],
     },
     {
       name: "Expression Evaluator in RISC-V Assembly",
@@ -40,6 +40,13 @@ export const siteConfig = {
         "Developed a full expression evaluator in RISC-V assembly, handling recursive-descent parsing, operator precedence, and manual register-level memory management without high-level language abstractions.",
       link: "https://github.com/Persheshow/Assembly-RISCV-Project",
       skills: ["RISC-V Assembly"],
+    },
+    {
+      name: "Check all my projects on GitHub!",
+      description:
+        "",
+      link: "https://github.com/Persheshow?tab=stars",
+      skills: ["SQL", "Java", "OOP", "C"],
     },
   ],
   experience: [
