@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Lorenzo",
-  title: "Junior Software Engineer",
+  title: "Junior Software Developer | Computer Science Student | AI Enthusiast",
   description: "Portfolio website of Lorenzo Napolitano",
   accentColor: "#a81111",
   social: {
@@ -39,15 +39,29 @@ export const siteConfig = {
       description:
         "Developed a full expression evaluator in RISC-V assembly, handling recursive-descent parsing, operator precedence, and manual register-level memory management without high-level language abstractions.",
       link: "https://github.com/Persheshow/Assembly-RISCV-Project",
-      skills: ["RISC-V Assembly"],
+      skills: ["RISC-V Assembly", "Recursive-Descent Parsing", "Manual Memory Management"],
     },
     {
-      name: "Check all my projects on GitHub!",
+      name: "Supermarket Database Management System",
       description:
-        "",
-      link: "https://github.com/Persheshow?tab=stars",
-      skills: ["SQL", "Java", "OOP", "C"],
+        "Designed and implemented a comprehensive database management system for a local supermarket, optimizing data storage and retrieval for efficient inventory management.",
+      link: "https://github.com/PietroPalandrani/Supermarket_DB",
+      skills: ["Python", "SQL", "MySQL", "Database Design", "ER Modeling"],
     },
+        {
+      name: "Room Booking System",
+      description:
+        "Built a Java-based room booking system following SOLID principles, and using Design Patterns like Strategy, Observer, Visitor and Facade.",
+      link: "https://github.com/Persheshow/OOP-Java-project",
+      skills: ["Java", "Design Patterns", "SOLID Principles", "Object-Oriented Programming"],
+    },
+        {
+      name: "Help Desk Ticketing System in C",
+      description:
+        "Built a concurrent, client-server Help Desk Ticketing System written in C. It features multiprocess concurrency, TCP socket networking, user authentication with roles, and JSON-based ticket storage.",
+      link: "https://github.com/PietroPalandrani/Help_Desk_Ticketing_System",
+      skills: ["C", "TCP Sockets", "Multiprocessing", "JSON", "Client-Server Architecture"],
+    }
   ],
   experience: [
     {
