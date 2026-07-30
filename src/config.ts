@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm a Final-year Computer Science student (Università Degli Studi di Firenze) with Erasmus+ exchange experience at Universidad Carlos III de Madrid, specialized in software development and applied AI, with hands-on experience architecting and deploying backend systems and web apps.",
-  skills: ["Javascript", "React", "Python", "Java", "MySQL"],
+  skills: ["Javascript", "React", "Python", "Java", "SQL"],
   projects: [
     {
       name: "Real-Time Kinematic Analysis via Computer Vision",
