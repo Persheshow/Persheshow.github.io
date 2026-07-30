@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Lorenzo",
-  title: "Junior Software Developer | Computer Science Student | AI Enthusiast",
+  title: "Junior Software Developer | Computer Science Student",
   description: "Portfolio website of Lorenzo Napolitano",
   accentColor: "#a81111",
   social: {
